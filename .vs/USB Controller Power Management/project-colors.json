@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e54a8a66-2020-4901-9e76-ef166283df85": {
+      "ProjectGuid": "e54a8a66-2020-4901-9e76-ef166283df85",
+      "DisplayName": "USB Controller Power Management",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

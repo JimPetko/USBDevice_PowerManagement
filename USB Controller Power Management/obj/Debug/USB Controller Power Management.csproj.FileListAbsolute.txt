@@ -1,0 +1,11 @@
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\obj\Debug\USB Controller Power Management.csproj.AssemblyReference.cache
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\obj\Debug\USB Controller Power Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\obj\Debug\USB_Controller_Power_Management.Properties.Resources.resources
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\obj\Debug\USB Controller Power Management.csproj.GenerateResource.cache
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\obj\Debug\USB Controller Power Management.csproj.CoreCompileInputs.cache
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\obj\Debug\USB_Controller_Power_Management.Form1.resources
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\bin\Debug\USB Controller Power Management.exe.config
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\bin\Debug\USB Controller Power Management.exe
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\bin\Debug\USB Controller Power Management.pdb
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\obj\Debug\USB Controller Power Management.exe
+C:\Users\petko\source\Repos\USB Controller Power Management\USB Controller Power Management\obj\Debug\USB Controller Power Management.pdb
