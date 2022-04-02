@@ -55,12 +55,12 @@ namespace USB_Controller_Power_Management
 
         private void but_EnablePM_Click(object sender, EventArgs e)
         {
-            TogglePowerManagement(false);
+            TogglePowerManagement(true);
         }
 
         private void but_DisablePM_Click(object sender, EventArgs e)
         {
-            TogglePowerManagement(true);
+            TogglePowerManagement(false);
         }
         /// <summary>
         /// Disables or Enables power managment based on which button was clicked.
